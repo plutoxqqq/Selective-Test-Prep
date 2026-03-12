@@ -1,3 +1,3 @@
 # L2: DoTS Formula
 
-> unfinished
+> Unfinished, wait until I make it
