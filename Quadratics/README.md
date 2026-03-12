@@ -140,37 +140,45 @@ That is all you need to know about perfect squares. So now you just need to prac
 
 ## Practice Questions
 
-### Expanding (Positive)
+### Expanding the Following (Positive):
 
-1. Expand $(x+4)^2$
+1. $(x+4)^2$
 
-2. Expand $(2x+3)^2$
+2. $(2x+3)^2$
 
-3. Expand $(3x+5)^2$
-
-
-### Expanding (Negative)
-
-1. Expand $(x-6)^2$
-
-2. Expand $(2x-7)^2$
-
-3. Expand $(4x-3)^2$
+3. $(3x+5)^2$
 
 
-### Simplifying (Positive)
+### Expanding the Following (Negative):
 
-1. Simplify $x^2 + 10x + 25$
+1. $(x-6)^2$
 
-2. Simplify $x^2 + 14x + 49$
+2. $(2x-7)^2$
 
-3. Simplify $4x^2 + 24x + 36$
+3. $(4x-3)^2$
 
 
-### Simplifying (Negative)
+### Simplifying the Following (Positive):
 
-1. Simplify $x^2 - 8x + 16$
+1. $x^2 + 10x + 25$
 
-2. Simplify $x^2 - 12x + 36$
+2. $x^2 + 14x + 49$
 
-3. Simplify $9x^2 - 24x + 16$
+3. $4x^2 + 24x + 36$
+
+
+### Simplifying the Following (Negative):
+
+1. $x^2 - 8x + 16$
+
+2. $x^2 - 12x + 36$
+
+3. $9x^2 - 24x + 16$
+
+**After you have finished, ask me for answers (I will send you a separate file), if you are unsure:**
+1. Check back on notes above
+2. Then ask either ChatGPT or me if still unsure
+
+---
+
+c:
