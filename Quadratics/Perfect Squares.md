@@ -6,7 +6,7 @@ A perfect square looks like this: $(a+b)^2$. And it can be expanded to this: $a^
 
 ## Part 2: Expanding
 
-### Positives $a^2+2ab+b^2$
+### Positives ($a^2+2ab+b^2$)
 When expanding a perfect square, you just substitute in the values per the formula $a^2+2ab+b^2$. For example:
 - (5+x)
 
