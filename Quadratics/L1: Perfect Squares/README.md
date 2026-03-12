@@ -140,7 +140,7 @@ That is all you need to know about perfect squares. So now you just need to prac
 
 ## Practice Questions
 
-### Expanding the Following (Positive):
+### Expand the Following (Positive):
 
 1. $(x+4)^2$
 
@@ -149,7 +149,7 @@ That is all you need to know about perfect squares. So now you just need to prac
 3. $(3x+5)^2$
 
 
-### Expanding the Following (Negative):
+### Expand the Following (Negative):
 
 1. $(x-6)^2$
 
@@ -158,7 +158,7 @@ That is all you need to know about perfect squares. So now you just need to prac
 3. $(4x-3)^2$
 
 
-### Simplifying the Following (Positive):
+### Simplify the Following (Positive):
 
 1. $x^2 + 10x + 25$
 
@@ -167,7 +167,7 @@ That is all you need to know about perfect squares. So now you just need to prac
 3. $4x^2 + 24x + 36$
 
 
-### Simplifying the Following (Negative):
+### Simplify the Following (Negative):
 
 1. $x^2 - 8x + 16$
 
