@@ -1,4 +1,4 @@
-# Expansion and Simplification of Perfect Squares
+# L1: Expansion and Simplification of Perfect Squares
 
 ## Part 1: Identifying
 
@@ -181,4 +181,4 @@ That is all you need to know about perfect squares. So now you just need to prac
 
 ---
 
-c:
+You're now done, so go to `L2` when / if it is released
