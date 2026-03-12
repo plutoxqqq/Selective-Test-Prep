@@ -27,6 +27,9 @@ $5^2 = 25$
 
 $x^2 + 10x + 25$
 
+<br>
+<br>
+
 ### Negatives $(a-b)^2$
 When expanding a negative perfect square, you do the same as with a positive one and substitute in the values. However, there is one small difference, the formula now becomes $a^2-2ab+b^2$. Notice the first operation is now a minus, but the second is still a plus. Example:
 
