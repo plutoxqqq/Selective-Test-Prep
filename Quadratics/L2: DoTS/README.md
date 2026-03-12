@@ -1,1 +1,1 @@
-# L2: DoTS Rule
+# L2: DoTS Formula
