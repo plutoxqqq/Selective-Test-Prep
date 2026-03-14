@@ -1,4 +1,4 @@
-# L1: Expansion and Simplification of Perfect Squares
+# L1: Perfect Squares
 
 ## Part 1: Identifying
 
