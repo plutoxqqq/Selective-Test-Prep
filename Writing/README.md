@@ -6,6 +6,7 @@
 > **Persuasive:** Technology is doing more harm than good. Do you agree?
 
 **Narrative:** The phrase must either be explicitly included or be based upon
+
 **Persuasive:** MUST be the main topic of your essay
 
 ---
@@ -32,7 +33,7 @@ or
 
 | Criteria | Excellent | Very Good | Good | Developing | Limited |
 |----------|----------|----------|------|-----------|--------|
-| **Knowledge, understanding and control** | Demonstrates higher order thinking, deep insight into the topic, and strong control of language. | Demonstrates some insight into the topic and reasonable control of language. | Responds to the prompt relevantly without going off topic. | Responds to the prompt but goes off topic from the main idea. | Does not respond to the prompt. |
+| **Knowledge, understanding and control** | Demonstrates higher order thinking, deep insight into the topic, and strong control of language. | Demonstrates some insight into the topic and reasonable control of language. | Responds to the prompt in a relevant way without going off-topic. | Responds to the prompt but goes off topic from the main idea. | Does not respond to the prompt. |
 | **Response to essay prompt** | Thorough and insightful selection and application of arguments, clearly addressing the prompt. | Thoughtful selection and application of arguments addressing the prompt. | Accurate selection and application of arguments relevant to the prompt. | Some relevant subject matter used, but lacks depth or clarity. | Limited selection of subject matter, may not clearly relate to the prompt. |
 | **Use of evidence** | Considered, well-explained evidence; examples are highly relevant and skilfully integrated. | Careful use and explanation of evidence; examples are relevant and clearly incorporated. | Suitable use of evidence; some explanation needed for clarity. | Some appropriate evidence used; explanation of relevance is weak. | Minimal evidence; little to no explanation of relevance. |
 | **Structure of response** | Excellent structure with clear introduction, body, and conclusion; TEEL used skilfully and enhances readability. | Clear structure with logical introduction, body, and conclusion; TEEL used effectively but formulaic. | Good structure with introduction, body, and conclusion; TEEL used appropriately. | Basic structure present; limited TEEL use; may confuse the reader at times. | Poor structure; incomplete introduction/conclusion; TEEL attempted but ineffective; difficult to follow. |
