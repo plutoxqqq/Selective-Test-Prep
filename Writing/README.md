@@ -2,7 +2,7 @@
 
 **Prompts:**
 > **Narrative:** The worst thing happened tonight; with no warning, total darkness...
-
+>
 > **Persuasive:** Technology is doing more harm than good. Do you agree?
 
 **Narrative:** The phrase must either be explicitly included or be based upon
