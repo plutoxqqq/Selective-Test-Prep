@@ -13,7 +13,9 @@
 
 ## Time Limit
 - 40 minutes total for 2 essays
+  
 or
+
 - 20 minutes for either persuasive or narrative
 
 **DO NOT** exceed the time limit
