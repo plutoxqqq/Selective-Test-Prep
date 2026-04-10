@@ -16,7 +16,7 @@ As we can see:
 
 $(2x^2 + 4x) + (3x + 6)$
 
-**Step 2 - Determine HCF of Each Part and Factor**
+**Step 2 - Determine HCF of Each Part and Factor Section 1**
 
 $(2x^2 + 4x)$ - We can see, in this section, the highest common factor (HCF), is $2x$:
 
