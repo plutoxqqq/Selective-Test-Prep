@@ -23,9 +23,9 @@
 ---
 
 ## If you got:
-- **$50%$ or less:** Redo the lesson
-- **$75%$ or less:** Do some more practice questions using ChatGPT (use prompt below)
-- **More than $75%$:** Proceed to `L2`
+- **50% or less:** Redo the lesson
+- **75% or less:** Do some more practice questions
+- **More than 75%:** Proceed to L2
 
 ### Prompt for ChatGPT
 ```
