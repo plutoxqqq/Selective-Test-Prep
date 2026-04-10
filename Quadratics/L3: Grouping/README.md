@@ -16,12 +16,12 @@ As we can see:
 
 $(2x^2 + 4x) + (3x + 6)$
 
-**Step 2 - Determine HCF of Each Part and Factor Section 1**
+**Step 2 - Determine HCF and Factor Section 1**
 
 $(2x^2 + 4x)$ - We can see, in this section, the highest common factor (HCF), is $2x$:
 
 $2x(x + 2)$
 
-The above factorisation was done due to these simple factors: $2x^2$ means $2xx$, so taking out $2x$ be $2/2 = 1$, and $xx/x = x$. Then move the factored equation $(2x)$. To the outside, therefore resulting in the section above
+The above factorisation was done due to these simple factors: $2x^2$ means $2xx$, so taking out $2x$ be $2/2 = 1$, and $xx/x = x$. Then move the factored equation $(2x)$. To the outside, therefore resulting in the section abovea
 
-**Step 3 - Determine HCF of Each Part and Factor Section 2**
+**Step 3 - Determine HCF and Factor Section 2**
