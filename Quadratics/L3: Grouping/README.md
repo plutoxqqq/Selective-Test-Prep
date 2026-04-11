@@ -4,6 +4,8 @@
 
 Grouping, although looking intimidating at first sight, is quite easy once you get the hang of it. Equations that require grouping to solve are usually 4 terms. Such as $ax + ay + bx + by$
 
+---
+
 ## Part 2: Factorising
 
 To factorise these types of expressions, you first need to split them into 2 separate parts:
@@ -42,14 +44,22 @@ As we can see, the first part: $2x(x + 2)$, and the second: $3(x + 2)$, both hav
 
 Now time for some practice :)
 
-### Factor the following:
+### Factorise the following:
 
-1. d
+1. $x^2 + 4x + 3x + 12$
 
-2. d
+2. $2x^2 + 5x + 4x + 10$
 
-3. d
+3. $3x^2 - 6x + 2x - 4$
 
-4. d
+4. $4x^2 + x - 16x - 4$
 
-5. d
+5. $6x^2 - x - 12x + 2$
+
+**After you have finished, ask me for answers (I will send you a separate file), if you are unsure:**
+1. Check back on notes above
+2. Then ask either ChatGPT or me if still unsure
+
+---
+
+You're now done, so go to `L3` when / if it is released
