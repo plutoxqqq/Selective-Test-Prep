@@ -31,3 +31,25 @@ $(3x + 6)$ - In this section, the highest common factor is now only 3, as that i
 $3(x + 2)$
 
 The above factorisation was done the same way, only with a different HCF. $\frac{3x+6}{3} = x+2$. So move that to the outside. Resulting in the above expression
+
+**Step 3 - Setting Up Brackets**
+
+As we can see, the first part: $2x(x + 2)$, and the second: $3(x + 2)$, both have a common binomial of $(x+2)$. To finalise the answer, look at the terms outside, in this case: $2x$ and $3$. Since the 3 is positive, the first bracket is $(2x+3)$. The second factored bracket is always the common binomial, in this case: $(x+2)$. If no common binomial is present, you have done the steps wrong
+
+**Final Answer:** $(2x+3)(x+2)$
+
+---
+
+Now time for some practice :)
+
+### Factor the following:
+
+1. d
+
+2. d
+
+3. d
+
+4. d
+
+5. d
