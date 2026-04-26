@@ -33,4 +33,5 @@ Now, you put each of those numbers (3 and 2) into brackets. Since both 3 and 2 a
 Sub in Values:
 
 (x+3)(x+2)
-> [IMPORTANT] Order **does not** matter!
+> [IMPORTANT]
+> Order **does not** matter!
