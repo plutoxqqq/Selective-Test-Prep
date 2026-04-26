@@ -21,7 +21,7 @@ Think to yourself: *What are the factors of 6?*
 
 Both multiply to 6. Now, they must fulfill the condition that they add to `b`
 
-- 1 + 6 \neq 5 ❌
+- 1 + 6 $\neq$ 5 ❌
 - 3 + 2 = 5 ✅
 
 **Step 2 - Put into Brackets:**
