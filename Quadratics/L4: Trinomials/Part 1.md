@@ -49,7 +49,7 @@ When a trinomial has negative signs, the method is the same, but you need to be 
 
 **Step 1 - Same Goal:**
 
-Still find 2 numbers that multiply to c and add to b.
+Still find 2 numbers that multiply to c and add to b
 
 ---
 
@@ -77,7 +77,7 @@ Answer:
 Case 2: - and + (order flipped)
 
 Example:
-x^2 - x - 6
+$x^2 - x - 6$
 
 Factors of -6:
 - 3 and -2
@@ -96,7 +96,7 @@ Answer:
 Case 3: - and - (when both are negative)
 
 Example:
-x^2 - 5x + 6
+$x^2 - 5x + 6$
 
 Factors of 6:
 - 1 and 6
@@ -110,10 +110,13 @@ Answer:
 
 ---
 
-Quick Pattern:
+Another method you could use is just going about it as if both were positive and at the end apply negatives. Example:
 
-- c > 0, b > 0 → both positive
-- c > 0, b < 0 → both negative
-- c < 0 → one positive, one negative
-```
+$x^2 - 7x + 10$
 
+**Factors of 10:**
+
+- 1 and 10
+- 2 and 5
+
+**Check Which HAVE A DIFFERENCE of b**
